@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="350" src="https://raw.githubusercontent.com/Befous/Befous/main/rem-anime.gif"  />
+<img align="right" height="250" src="https://raw.githubusercontent.com/Befous/Befous/main/rem-anime.gif"  />
 
 ###
 
