@@ -11,3 +11,5 @@
 <img src="https://raw.githubusercontent.com/Befous/Befous/output/snake.svg" alt="Snake animation" />
 
 ###
+
+SELECT RKP_AbsenDosen.NIDN, tblDosen.Nama, RKP_AbsenDosen.Pertemuan_ke, RKP_AbsenDosen.Tanggal, RKP_AbsenDosen.PokokBahasan, RKP_AbsenDosen.RealisaiPerkuliahan FROM RKP_AbsenDosen INNER JOIN tblDosen On RKP_AbsenDosen.NIDN=tblDosen.NIDN WHERE NIDN=
